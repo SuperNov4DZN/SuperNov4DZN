@@ -4,8 +4,6 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNov4DZN&show_icons=true&theme=dracula&hide_rank=true&include_all_commits=true&custom_title=My GitHub Stats (No silly ranks :P))](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <a href="https://github.com/SuperNov4DZN"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuperNov4DZN&show_icons=true&theme=dracula&hide_rank=true&include_all_commits=true&custom_title=My GitHub Stats (No silly ranks :P)"/>
