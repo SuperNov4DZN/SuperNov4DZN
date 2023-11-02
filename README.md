@@ -4,9 +4,11 @@
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNov4DZN)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <a href="https://github.com/SuperNov4DZN"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuperNov4DZN&show_icons=true&theme=dracula&hide_rank=true&include_all_commits=true&custom_title=My GitHub Stats (No silly ranks :P)"/>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuperNov4DZN&show_icons=true&theme=dracula&hide_rank=true&include_all_commits=true&custom_title=My GitHub Stats (No silly ranks :P)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNov4DZN&layout=compact&langs_count=7&theme=dracula&custom_title=Languages Im using the most (ATM)"/>
 </div>
 
