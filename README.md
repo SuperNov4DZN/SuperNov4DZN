@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <h3>CURRENTLY LEARNING</h3>
+  <h3>TECH STACK</h3>
 </div>
 
 <div align="center" style="display: inline_block">
